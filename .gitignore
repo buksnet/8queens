@@ -1,0 +1,3 @@
+*.exe
+*.obj
+main_fail.cpp
